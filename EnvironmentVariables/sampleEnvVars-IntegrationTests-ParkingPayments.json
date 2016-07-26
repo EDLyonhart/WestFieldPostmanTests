@@ -1,0 +1,197 @@
+{
+	"id": "3161ff45-83a0-6296-e4e8-ca0a2ff1ec15",
+	"name": "Integration Tests : /parking, /payments",
+	"values": [
+		{
+			"enabled": true,
+			"key": "transaction_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "spreedly_env_key",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "spreedly_api_key",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_api_key",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_username",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_password",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"key": "staff_user_id",
+			"value":"<value>"
+			"type": "text",
+			"enabled": true
+		},
+		{
+			"key": "staff_user_secret",
+			"value":"<value>"
+			"type": "text",
+			"enabled": true
+		},
+		{
+			"enabled": true,
+			"key": "payment_token",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "centre_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "merchant_name",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "merchant_code",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "merchant_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "gateway_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "gateway_name",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "gateway_token",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "fingerprint",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "transaction_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "parking_access_token",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_access_token",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "payment_token",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "payment_method_token",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "email",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "seed_user",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "country",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "centre",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "garage_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "person_id",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"enabled": true,
+			"key": "Authorization",
+			"type": "text",
+			"value":"<value>"
+		},
+		{
+			"key": "seed_centre",
+			"value":"<value>",
+			"type": "text",
+			"enabled": true
+		},
+		{
+			"key": "bare_token",
+			"type": "text",
+			"value":"<value>",
+			"enabled": true
+		}
+	],
+	"timestamp": 1469562432953,
+	"synced": false,
+	"syncedFilename": "",
+	"team": null,
+	"isDeleted": false
+}

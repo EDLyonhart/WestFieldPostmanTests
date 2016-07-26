@@ -1,0 +1,265 @@
+{
+	"id": "7d62aca7-fc40-12ff-28f8-6fca50112c0f",
+	"name": "Acceptance Tests",
+	"values": [
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "timeStampHeader",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "api_key",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "wfapi_key",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "HOST",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "spreedly_env_key",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "spreedly_api_key",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_username",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_password",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "parking_staff_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "parking_staff_secret",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_user_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_user_secret",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "odn_api_key",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "odn_access_token",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "country",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "centre",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "password",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "patched_password",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "person_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "Authorization",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "parking_access_token",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_access_token",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"hovered": false,
+			"key": "email",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "license_plate",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "payment_method_token",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "parking_session_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "start_date",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "end_date",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "fingerprint",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "bare_token",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "product_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "event_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "retailer_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "deal_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "restaurant_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "food_item_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "payment_method_token_1",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "garage_id",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "seed_centre",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "p_m_t",
+			"type": "text",
+			"value": "<value>"
+		},
+		{
+			"enabled": true,
+			"key": "staff_uuid",
+			"type": "text",
+			"value": "<value>"
+		}
+	],
+	"timestamp": 1469574481877,
+	"synced": false,
+	"syncedFilename": "",
+	"team": null,
+	"isDeleted": false
+}
